@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include el_fouad_dashboard *.css
+recursive-include el_fouad_dashboard *.csv
+recursive-include el_fouad_dashboard *.html
+recursive-include el_fouad_dashboard *.ico
+recursive-include el_fouad_dashboard *.js
+recursive-include el_fouad_dashboard *.json
+recursive-include el_fouad_dashboard *.md
+recursive-include el_fouad_dashboard *.png
+recursive-include el_fouad_dashboard *.py
+recursive-include el_fouad_dashboard *.svg
+recursive-include el_fouad_dashboard *.txt
+recursive-exclude el_fouad_dashboard *.pyc
