@@ -124,6 +124,10 @@ app_license = "MIT"
 # 	]
 # }
 
+override_doctype_dashboards = {
+    "Expense Claim": "el_fouad_dashboard.public.js.expense_claim_dashboard.get_data",
+   
+}
 # Testing
 # -------
 

@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Vehicle Service",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2021-11-07 11:10:52.861269",
+   "default_value": null,
+   "doc_type": "Vehicle Service",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "service_item",
+   "idx": 0,
+   "modified": "2021-11-07 11:10:52.861269",
+   "modified_by": "Administrator",
+   "name": "Vehicle Service-service_item-options",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "options",
+   "property_type": "Text",
+   "row_name": null,
+   "value": "\nBrake Oil\nBrake Pad\nClutch Plate\nEngine Oil\nOil Change\nWheels\nMaintenance\nSpare Parts\nCharges\n"
+  }
+ ],
+ "sync_on_migrate": 1
+}
